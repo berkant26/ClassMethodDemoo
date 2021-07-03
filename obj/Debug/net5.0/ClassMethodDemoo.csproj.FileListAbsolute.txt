@@ -1,0 +1,16 @@
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\bin\Debug\net5.0\ClassMethodDemoo.exe
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\bin\Debug\net5.0\ClassMethodDemoo.deps.json
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\bin\Debug\net5.0\ClassMethodDemoo.runtimeconfig.json
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\bin\Debug\net5.0\ClassMethodDemoo.runtimeconfig.dev.json
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\bin\Debug\net5.0\ClassMethodDemoo.dll
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\bin\Debug\net5.0\ref\ClassMethodDemoo.dll
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\bin\Debug\net5.0\ClassMethodDemoo.pdb
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\obj\Debug\net5.0\ClassMethodDemoo.csproj.AssemblyReference.cache
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\obj\Debug\net5.0\ClassMethodDemoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\obj\Debug\net5.0\ClassMethodDemoo.AssemblyInfoInputs.cache
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\obj\Debug\net5.0\ClassMethodDemoo.AssemblyInfo.cs
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\obj\Debug\net5.0\ClassMethodDemoo.csproj.CoreCompileInputs.cache
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\obj\Debug\net5.0\ClassMethodDemoo.dll
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\obj\Debug\net5.0\ref\ClassMethodDemoo.dll
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\obj\Debug\net5.0\ClassMethodDemoo.pdb
+C:\Users\beko\source\repos\project1\ClassMethodDemoo\obj\Debug\net5.0\ClassMethodDemoo.genruntimeconfig.cache
